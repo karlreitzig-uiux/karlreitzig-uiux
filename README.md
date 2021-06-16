@@ -1,6 +1,6 @@
 - 🙋🏼‍♂️ Hi, I’m Karl Reitzig. I am a freelance UIUX Designer
 currently living the digital nomad life.
-- 🥰 I’m interested in Interaction Design, Design Evaluation, Accesibility, Usability, and Front End Development
+- 🥰 I’m interested in Interaction Design, Design Evaluation, Accessibility, Usability, and Front End Development
 - 👨‍🎓 I’m currently exploring the realm of JavaScript 
 - 🤝 I’m looking to collaborate on product and visual design.
 - 📫 hello@karlreitzig.com
